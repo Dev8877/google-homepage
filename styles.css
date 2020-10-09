@@ -1,0 +1,28 @@
+.nav {
+    box-sizing: content-box;
+    display: inline-block;
+    float: none;
+    line-height: 24px;
+    position: static;
+    z-index: auto;
+}
+
+.logo {
+    box-sizing: content-box;
+    display: inline;
+    float: none;
+    line-height: 200px;
+    position: static;
+    z-index: auto;
+}
+ 
+.footer {
+    display: flex;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #c5bcbc;
+    text-align: center;
+}
+
