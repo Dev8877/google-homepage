@@ -17,7 +17,9 @@
 }
  
 .footer {
-    display: flex;
+    display: block;
+    padding: 10px;
+    margin: 0px;
     position: absolute;
     left: 0;
     bottom: 0;
