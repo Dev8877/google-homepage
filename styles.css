@@ -27,10 +27,18 @@ body {
   padding-left: 10px;
 }
 
+#navBar .navRight:hover{
+  text-decoration: underline;
+}
+
 #navBar .navLeft {
   float: left;
   padding-left: 10px;
   margin-right: 2px;
+}
+
+#navBar .navLeft:hover {
+  text-decoration: underline;
 }
 
 #navBar #signIn {
@@ -142,7 +150,10 @@ footer ul li {
   margin-bottom: 15px;
 }
 
+footer ul li:hover {
+  text-decoration: underline;
+}
+
 .footerRight {
   float: right;
-  
 }
